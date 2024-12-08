@@ -1,4 +1,4 @@
-﻿Stunde;Day_Ahead_Mittelwert_EUR_MWh;Day_Ahead_Standardabweichung_EUR_MWh
+﻿hour;day_ahead_mean_EUR_MWh;day_ahead_std_EUR_MWh
 00;81,50483871;23,74955885
 01;72,24580645;21,40690508
 02;68,22354839;22,44547698
